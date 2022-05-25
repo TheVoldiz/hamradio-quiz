@@ -8,7 +8,7 @@
 	<text>Kuris dokumentas reglamentuoja radijo mėgėjų veiklą Lietuvos Respublikoje?</text>
 	<choice>CEPT rekomendacija T/R 61-01 „CEPT radijo mėgėjo leidimas“</choice>
 	<choice>Teisės užsiimti radijo mėgėjų veikla suteikimo tvarkos ir užsiėmimo šia veikla sąlygų aprašas</choice>
-	<choice>Lietuvos Respublikos elektroninių ryšių įstatymas</choice>
+	<choice>Radijo dažnių (kanalų) skyrimo ir naudojimo taisykles</choice>
 	<answer>1</answer>
 </question>
 
@@ -2346,7 +2346,7 @@
 	<choice>Pastovioji</choice>
 	<choice>Kintamoji</choice>
 	<choice>Abi vienodai pavojingos</choice>
-	<answer>2</answer>
+	<answer>1</answer>
 </question>
 
 <question>
